@@ -3,7 +3,8 @@ title = "DevOps"
 lastmod = '2022-12-04'
 +++
 
-Helping to streamline DevOps workflows in your organization.
+Innovating technology, optimizing processes, and enhancing collaboration with
+devops engineering.
 
 <!--more-->
 
