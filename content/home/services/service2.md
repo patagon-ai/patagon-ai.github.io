@@ -1,12 +1,12 @@
 +++
-title = "AI Prompt Engineering"
-lastmod = '2022-12-03'
+title = "DevOps"
+lastmod = '2022-12-04'
 +++
 
-We are here to help you with your AI journey, to achieve the results you need.
+Helping to streamline DevOps workflows in your organization.
 
 <!--more-->
 
-* Stable-difussion prompt Engineering
-* OpenAI solutions
-* AI driven ML processes
+* CI/CD
+* DevSecOps
+* Monitoring, alerting
