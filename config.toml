@@ -14,7 +14,7 @@ theme = "hugo-initio"
     avatarclass = "circle"
     background = ""
     #banner = "images/bg_head.jpg"
-    banner = "images/mate_bg.png"
+    banner = "images/patagon_ai.png"
     favicon = "images/patagon_ai.ico"
     DateForm = "January 2, 2006"
 
