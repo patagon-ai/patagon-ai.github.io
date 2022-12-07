@@ -10,11 +10,11 @@ theme = "hugo-initio"
     phone = "+1 650 204 1556"
     address = "TBD, Delaware"
     year = 2022
-    avatar = "images/guy.jpg"
+    avatar = "images/avatar.jpg"
     avatarclass = "circle"
     background = ""
     #banner = "images/bg_head.jpg"
-    banner = "images/jjo_bg.png"
+    banner = "images/mate_bg.png"
     favicon = "images/patagon_ai.ico"
     DateForm = "January 2, 2006"
 
