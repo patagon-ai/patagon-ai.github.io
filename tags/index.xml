@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Patagon AI</title>
-    <link>https://patagon-ai.net/tags/</link>
+    <link>https://patagon-ai.us.to/tags/</link>
     <description>Recent content in Tags on Patagon AI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://patagon-ai.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://patagon-ai.us.to/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
