@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patagon AI</title>
+    <link>https://patagon-ai.net/</link>
+    <description>Recent content on Patagon AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://patagon-ai.net/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
