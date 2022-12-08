@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/miguelsimoni/hugo-initio.git",
+          "subdir": ""
+        }
+      },
+      "version": "9f82e51e6ab0ce085ccb2c8f07e12492915fd312",
+      "sum": "SgoQnSx1xONE2UF2bO/PEH79hw1Xkrr3g7RrZIvuUSU="
+    }
+  ],
+  "legacyImports": false
+}
