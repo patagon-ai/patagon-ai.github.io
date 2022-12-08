@@ -1,3 +1,8 @@
+# Thanks https://schnerring.net/blog/create-a-hugo-website-with-github-pages-github-actions-and-cloudflare/
+# for the great tutorial on howto configure hugo with:
+# - github pages
+# - github actions (.github/workflows/hugo.yml)
+# - cloudflare (scripts/purge_cloudflare_cache.sh)
 baseURL = "https://patagon-ai.us.to/"
 languageCode = "en"
 title = "Patagon AI"
