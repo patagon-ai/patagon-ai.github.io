@@ -21,13 +21,13 @@ theme = "hugo-initio"
     #banner = "images/bg_head.jpg"
     banner = "images/patagon_ai.png"
     favicon = "images/patagon_ai.ico"
-    DateForm = "January 2, 2006"
+    DateForm = "January 1, 2023"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
