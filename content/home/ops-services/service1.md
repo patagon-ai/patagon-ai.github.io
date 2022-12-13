@@ -9,7 +9,26 @@ collaboration.
 
 <!--more-->
 
-* Kubernetes
-* CI/CD
-* Prometheus
-* Observability stacks
+## Kubernetes
+
+TODO: kubernetes, complexity, experts, contributor
+
+![Kubernetes architecture](../../../images/components-of-kubernetes.svg)
+
+<!--
+## CI/CD
+
+![Typical CI/CD pipeline](../../../images/typical_pipeline_shared_creds.png)
+-->
+
+## Prometheus
+
+TODO: prometheus promQL
+
+![Prometheus Components](../../../images/prometheus.svg)
+
+## Observability stacks
+
+TODO: cloud native observability
+
+![Thanos architecture](../../../images/thanos.png)
