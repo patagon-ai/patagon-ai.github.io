@@ -83,7 +83,7 @@ theme = "hugo-initio"
 #    network = "googleplus"
 [[params.social]]
     title = "linkedin"
-    url = "https://www.linkedin.com/in/patagon-ai"
+    url = "https://www.linkedin.com/company/patagon-ai"
     icon = "fab fa-linkedin"
     footer = true
     sharethis = true
