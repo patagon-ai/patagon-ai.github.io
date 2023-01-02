@@ -27,12 +27,6 @@ succeed.
 
 ![Kubernetes architecture](../../../images/components-of-kubernetes.svg)
 
-<!--
-## CI/CD
-
-![Typical CI/CD pipeline](../../../images/typical_pipeline_shared_creds.png)
--->
-
 ## Prometheus
 
 If you’re looking to improve the observability of your cloud-native
