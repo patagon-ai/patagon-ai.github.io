@@ -1,6 +1,7 @@
 +++
 title = "Cloud Native"
 lastmod = '2022-12-05'
+weight = 10
 +++
 
 By leveraging the power of the cloud, our engineering solutions can help your

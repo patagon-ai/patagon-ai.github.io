@@ -1,6 +1,7 @@
 +++
 title = "DevOps"
 lastmod = '2022-12-04'
+weight = 20
 +++
 
 Innovating technology, optimizing processes, and enhancing collaboration with

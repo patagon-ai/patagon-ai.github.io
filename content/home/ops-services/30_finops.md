@@ -1,6 +1,7 @@
 +++
 title = "FinOps"
 lastmod = '2022-12-04'
+weight = 30
 +++
 
 Trouble with your cloud bill?
