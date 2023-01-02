@@ -3,12 +3,10 @@ type = "subheader"
 title = ""
 +++
 
-## Cloud computing experts
+## Cloud Native computing experts
 
-### We are a company dedicated to provide cloud computing services
+### We are a company dedicated to providing cloud computing services
 
 We provide solutions to companies needing to improve their cloud computing usage,
 helping them to improve their knowledge, workflows, deployment strategies, and
-cost optmization.
-
-We leverage the power of AI to build our optimized solutions.
+cost optmization, leveraging AI to build optimized ah-hoc solutions.
