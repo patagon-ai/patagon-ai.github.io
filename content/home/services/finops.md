@@ -5,7 +5,7 @@ weight = 30
 +++
 
 Trouble with your cloud bill?
-We are [here to help](/contact).
+We are here to help.
 
 ![FinOps](../../../images/finops.png)
 
