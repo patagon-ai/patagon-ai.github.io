@@ -24,7 +24,9 @@ experts has a wealth of experience with a variety of DevOps tools and
 methodologies, and we can help you design and implement a customized solution
 that meets your specific needs and goals. With our help, you can improve your
 team's collaboration, automation, and continuous delivery capabilities and
-achieve better outcomes for your business. 
+achieve better outcomes for your business.
+
+[Contact us for more details](/contact).
 
 ## CI/CD
 
@@ -38,4 +40,3 @@ help your organization set up and optimize a pipeline that meets your specific
 needs and goals.
 We can assist with everything from infrastructure and tool selection to
 pipeline design and integration with your existing workflow.
-
