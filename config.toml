@@ -32,7 +32,7 @@ theme = "hugo-initio"
     showFooterContact = true
     showFooterFollowMe = true
     showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
