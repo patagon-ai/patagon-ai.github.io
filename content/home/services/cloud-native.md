@@ -47,6 +47,24 @@ observability stacks
 We can also help with training your [DevOps](/home/services/devops)
 teams for the effective use of these observability platforms.
 
+![Thanos architecture](../../../images/thanos.png)
+
+Cloud native observability stacks provide organizations with the tools and
+technologies needed to effectively monitor and observe the behavior of cloud
+native systems in real-time. These stacks typically include a combination of
+logging, tracing, and metric collection tools, which can be used to collect and
+analyze large amounts of data about system behavior. By using cloud native
+observability stacks, organizations can gain a more complete and accurate view
+of how their systems are functioning, which is critical for ensuring reliable
+and performant operation in complex, distributed environments.
+
+In addition to providing visibility and understanding of system behavior, cloud
+native observability stacks can also help organizations to identify and
+troubleshoot issues, optimize system performance, and make more informed
+decisions about how to improve their systems over time. By embracing cloud
+native observability stacks, organizations can gain the insights and
+understanding they need to operate and manage their cloud native systems more
+effectively and efficiently.
+
 [We are happy to help you build your observability stack](/contact).
 
-![Thanos architecture](../../../images/thanos.png)

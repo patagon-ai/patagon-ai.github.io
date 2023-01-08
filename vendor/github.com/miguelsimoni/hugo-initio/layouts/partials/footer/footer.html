@@ -5,8 +5,9 @@
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Contact</h3>
 				<div class="widget-body">
-					<p>{{ if .Site.Params.phone }}{{ .Site.Params.phone }}<br>{{ end }}
-					{{ if .Site.Params.email }}<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>{{ end }}
+					<p><a href="/contact">Send us a message</a>
+					<p>{{ if .Site.Params.phone }}Call us {{ .Site.Params.phone }}<br>{{ end }}
+					{{ if .Site.Params.email }}Send us an email to <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>{{ end }}
 					<br>
 					{{ if .Site.Params.address }}{{ .Site.Params.address }}{{ end }}
 					</p>
@@ -16,7 +17,7 @@
 
 			{{ if .Site.Params.showFooterFollowMe }}
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">Follow me</h3>
+				<h3 class="widget-title">Follow us</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
             {{ range .Site.Params.social }}
@@ -31,7 +32,7 @@
 
 			{{ if .Site.Params.showFooterTextWidget }}
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">Text widget</h3>
+				<h3 class="widget-title">---</h3>
 				<div class="widget-body">
 					<p>
 						{{ i18n "footer_text1" . | markdownify }}
