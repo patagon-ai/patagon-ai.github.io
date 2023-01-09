@@ -44,3 +44,5 @@ help your organization set up and optimize a pipeline that meets your specific
 needs and goals.
 We can assist with everything from infrastructure and tool selection to
 pipeline design and integration with your existing workflow.
+
+Read our [FAQ entry about CI/CD](/home/services/faq/#cicd).
