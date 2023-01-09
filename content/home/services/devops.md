@@ -11,6 +11,8 @@ devops engineering.
 
 <!--more-->
 
+{{<toc>}}
+
 ## DevOps
 
 DevOps practices have become increasingly important for organizations looking
@@ -25,6 +27,8 @@ methodologies, and we can help you design and implement a customized solution
 that meets your specific needs and goals. With our help, you can improve your
 team's collaboration, automation, and continuous delivery capabilities and
 achieve better outcomes for your business.
+
+Read our [FAQ entry about DevOps](/home/services/faq/#devops).
 
 [Contact us for more details](/contact).
 

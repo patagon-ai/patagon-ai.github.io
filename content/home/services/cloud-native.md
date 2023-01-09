@@ -12,6 +12,8 @@ collaboration.
 
 <!--more-->
 
+{{<toc>}}
+
 ## Kubernetes
 
 [Kubernetes](https://kubernetes.io) is a powerful and complex system for
@@ -22,6 +24,8 @@ Whether you're just getting started with Kubernetes or looking to optimize your
 existing deployment, we can provide the guidance and support you need.
 With our help, you can take on the complexities of Kubernetes with confidence
 and achieve your desired outcomes.
+
+Read our [FAQ entry about Kubernetes](/home/services/faq/#kubernetes).
 
 So, don't let the complexities of Kubernetes hold you back –
 [let us help you succeed](/contact).
@@ -65,6 +69,8 @@ decisions about how to improve their systems over time. By embracing cloud
 native observability stacks, organizations can gain the insights and
 understanding they need to operate and manage their cloud native systems more
 effectively and efficiently.
+
+Read our [FAQ entry about Cloud Native Observability](/home/services/faq/#cloud-native-observability).
 
 [We are happy to help you build your observability stack](/contact).
 

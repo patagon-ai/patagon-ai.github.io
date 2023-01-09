@@ -23,4 +23,6 @@ optimization and cost allocation. With our help, you can take control of your
 cloud costs and achieve better outcomes for your business. Don't let the
 complexities of FinOps hold you back – let us help you succeed.
 
+Read our [FAQ entry about FinOps](/home/services/faq/#finops).
+
 [Let us help you implement your FinOps strategy](/contact).
