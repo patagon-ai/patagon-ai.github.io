@@ -3,7 +3,7 @@
 # - github pages
 # - github actions (.github/workflows/hugo.yml)
 # - cloudflare (scripts/purge_cloudflare_cache.sh)
-baseURL = "https://patagonAI.net/"
+baseURL = "https://patagon-ai.net/"
 languageCode = "en"
 title = "Patagon AI"
 theme = "hugo-initio"
@@ -11,7 +11,7 @@ theme = "hugo-initio"
 [params]
     name = "Patagon AI"
     description = "Patagon AI Tech"
-    email = "info@patagonAI.net"
+    email = "info@patagon-ai.net"
     phone = "+1 (650) 204 1556"
     address = "TBD, Delaware"
     year = 2022
@@ -104,7 +104,7 @@ theme = "hugo-initio"
 #    network = ""
 [[params.social]]
     title = "email"
-    url = "mailto:info@patagonai.net"
+    url = "mailto:info@patagon-ai.net"
     icon = "fas fa-envelope-square"
     footer = false
     sharethis = true
