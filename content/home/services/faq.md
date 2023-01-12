@@ -8,6 +8,8 @@ Some frequently asked questions about our services.
 
 ![FAQ](../../../images/faq.png)
 
+---
+
 <!--more-->
 
 {{<toc>}}
