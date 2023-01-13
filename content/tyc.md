@@ -1,6 +1,6 @@
 +++
 menu = "main"
-title = "Term and Conditions"
+title = "T&C"
 type = "about"
 weight = 40
 +++
