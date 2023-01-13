@@ -8,14 +8,13 @@ weight = 20
 
 ### We are here to help
 
-Contact form:
-<!-- ![about](../images/mac.jpg) -->
+**Contact form**:
 
 {{< rawhtml >}}
 
 <form action="https://getform.io/f/fcfee470-9e6d-45f9-bb09-a022525136c9" method="POST">
     <div class="mb-3 pt-0">
-      Name:<br/>
+      <b>Name:</b><br/>
       <input
         placeholder="Your name"
         type="text"
@@ -23,16 +22,18 @@ Contact form:
         class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full"
       />
     </div>
+    <br/>
     <div class="mb-3 pt-0">
-      Email:<br/>
+      <b>Email:</b><br/>
       <input
         placeholder="you@example.com"
         type="email"
         name="email"
       />
     </div>
+    <br/>
     <div class="mb-3 pt-0">
-      Message:<br/>
+      <b>Message:</b><br/>
       <textarea
         placeholder="Your message"
         type="text"
@@ -46,5 +47,13 @@ Contact form:
     <input type="hidden" name="_gotcha" style="display:none !important">
     <!-- checkbox handle -->
     <button type="submit">Send</button>
-</form>
+
+#</form>
 {{< /rawhtml >}}
+
+---
+
+**Or if you prefer**:
+
+* Call us +1 (650) 204 1556
+* Send us an email to info@patagon-ai.net
