@@ -48,7 +48,7 @@ weight = 20
     <!-- checkbox handle -->
     <button type="submit">Send</button>
 
-#</form>
+</form>
 {{< /rawhtml >}}
 
 ---
