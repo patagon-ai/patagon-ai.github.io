@@ -35,6 +35,10 @@ valued clients in the United States**.
 
 ### Our CEO
 
+Content temporarily hidden for privacy and no-spam reasons, please [contact us](/contact).
+
+<!--
+
 ![JuanJo Ciarlante](../../../images/jjo.jpg)
 
 Our team is lead by JuanJo Ciarlante, a recognized member of the opensource community,
@@ -65,5 +69,4 @@ You can follow him at:
 * [Twitter](https://twitter.com/xjjo)
 * [LinkedIn](https://www.linkedin.com/in/jjolink/)
 * [StackOverflow](https://stackoverflow.com/users/9443059/jjo)
-
-
+-->
