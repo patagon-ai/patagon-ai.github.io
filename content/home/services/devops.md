@@ -18,6 +18,8 @@ devops engineering.
 
 ## DevOps
 
+![DevOps tools](../../../images/devops_tools.jpeg)
+
 DevOps practices have become increasingly important for organizations looking
 to improve the speed and efficiency of their software development and delivery.
 However, implementing these practices can be a challenge, especially for
