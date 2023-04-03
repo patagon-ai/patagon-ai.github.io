@@ -32,6 +32,7 @@ and achieve success, we're here to help.
 At our company, we are dedicated to providing **top-notch assistance to our
 valued clients in the United States**.
 
+<!--
 
 ### Our CEO
 
@@ -66,4 +67,4 @@ You can follow him at:
 * [LinkedIn](https://www.linkedin.com/in/jjolink/)
 * [StackOverflow](https://stackoverflow.com/users/9443059/jjo)
 
-
+-->
